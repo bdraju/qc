@@ -21,3 +21,4 @@ require('./wp-blog-header.php');
 $te = 'fuck raju now, he is 6 feet from the airdrain and I\'m thinking may be 6 feet, its so far down.';
 $m = 'muhahahahahahha';
 echo $te."<br>".$m;
+echo 'l';
