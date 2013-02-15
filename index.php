@@ -19,3 +19,4 @@ require('./wp-blog-header.php');
 $raju = "Bad boy";
 $mehedi = "Good Boy";
 echo $raju.$mehedi;
+
