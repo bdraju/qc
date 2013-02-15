@@ -17,8 +17,15 @@ define('WP_USE_THEMES', true);
 require('./wp-blog-header.php');
 
 
+
 // rabbi: version checkout testing: 15 february,2013
 $te = 'fuck raju now, he is 6 feet from the airdrain and I\'m thinking may be 6 feet, its so far down.';
 $m = 'muhahahahahahha';
 echo $te."<br>".$m;
 echo 'l';
+
+//this is added by Raju on 25 july
+$raju = "Bad boy";
+$mehedi = "Good Boy";
+echo $raju.$mehedi;
+
