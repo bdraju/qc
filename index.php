@@ -15,3 +15,7 @@ define('WP_USE_THEMES', true);
 
 /** Loads the WordPress Environment and Template */
 require('./wp-blog-header.php');
+//this is added by Raju on 25 july
+$raju = "Bad boy";
+$mehedi = "Good Boy";
+echo $raju.$mehedi;
